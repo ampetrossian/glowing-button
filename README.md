@@ -1,11 +1,6 @@
 # Glowing Button
 
-A glowing transparent button experiment by [@nusualabuga](https://twitter.com/nusualabuga) and [@oguzyagizkara](https://twitter.com/oguzyagizkara)
-
-## Preview:
-
-https://user-images.githubusercontent.com/1702215/214709198-54e73373-ed00-4556-a752-ab04ebceadfd.mp4
-
+A glowing transparent button experiment by [@ampetrossian](https://twitter.com/ampetrossian)
 
 ## Demo:
-https://react-glowing-button.vercel.app/
+https://glowing-button-experiment.vercel.app/
