@@ -83,21 +83,13 @@ export default function Credits() {
 
   return (
     <Wrapper>
-      <Item href="https://twitter.com/oguzyagizkara" target="_blank">
-        <img src="/oguz_pp.png" width={48} />
+      <Item href="https://twitter.com/ampetrossian" target="_blank">
+        <img src="/armen.png" width={48} />
         <div>
           <p>Design</p>
-          <p>@oguzyagizkara</p>
+          <p>@ampetrossian</p>
         </div>
-      </Item> 
-      <MiddleLine />
-      <Item href="https://twitter.com/nusualabuga" target="_blank">
-        <img src="/nusu_pp.png" width={48} />
-        <div>
-          <p>Code</p>
-          <p>@nusualabuga</p>
-        </div>
-      </Item> 
+      </Item>
     </Wrapper>
   )
 }
